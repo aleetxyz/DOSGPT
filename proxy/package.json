@@ -1,0 +1,10 @@
+{
+  "name": "http2https",
+  "version": "1.0.0",
+  "main": "http2https.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
