@@ -1,6 +1,6 @@
-# DOSGPT88
+# DOSGPT
 
-A ChatGPT PoC client for vintage computers under MS-DOS made in C 
+A ChatGPT MS-DOS PoC client for 8088 class computers, made in C 
 
 ![Chat GPT in IBM 5160](./media/splash.png)
 
